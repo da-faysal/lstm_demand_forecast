@@ -1,0 +1,1 @@
+CAISO (California Independent System Operator) system demand forecast for next 48 hours (2 days) into the future using LSTM. 
